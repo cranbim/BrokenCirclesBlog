@@ -4,6 +4,6 @@
 
 layout: home
 title: "A Page"
-permalink: /https://github.com/cranbim/BrokenCirclesBlog/
+permalink: /https://github.com/cranbim/BrokenCirclesBlog/index.markdown
 ---
 This is a page
